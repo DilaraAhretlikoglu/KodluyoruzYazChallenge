@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\bin\Debug\net7.0\medium.exe
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\bin\Debug\net7.0\medium.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\bin\Debug\net7.0\medium.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\bin\Debug\net7.0\medium.dll
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\bin\Debug\net7.0\medium.pdb
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.dll
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\refint\medium.dll
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.pdb
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\medium.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\kodluyoruz_yaz_challenge\challenge15\medium\obj\Debug\net7.0\ref\medium.dll
