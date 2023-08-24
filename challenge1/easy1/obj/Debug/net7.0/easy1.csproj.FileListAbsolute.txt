@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\bin\Debug\net7.0\easy1.exe
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\bin\Debug\net7.0\easy1.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\bin\Debug\net7.0\easy1.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\bin\Debug\net7.0\easy1.dll
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\bin\Debug\net7.0\easy1.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.dll
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\refint\easy1.dll
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\easy1.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\easy1\obj\Debug\net7.0\ref\easy1.dll

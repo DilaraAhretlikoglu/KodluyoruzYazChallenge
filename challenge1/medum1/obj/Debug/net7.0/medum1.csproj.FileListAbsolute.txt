@@ -1,0 +1,15 @@
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\bin\Debug\net7.0\medum1.exe
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\bin\Debug\net7.0\medum1.deps.json
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\bin\Debug\net7.0\medum1.runtimeconfig.json
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\bin\Debug\net7.0\medum1.dll
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\bin\Debug\net7.0\medum1.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.csproj.AssemblyReference.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.AssemblyInfoInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.AssemblyInfo.cs
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.csproj.CoreCompileInputs.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.dll
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\refint\medum1.dll
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.pdb
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\medum1.genruntimeconfig.cache
+C:\Users\dilar\OneDrive\Masaüstü\KodluyoruzYazChallenge\challenge1\medum1\obj\Debug\net7.0\ref\medum1.dll
